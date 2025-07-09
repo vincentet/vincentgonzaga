@@ -1,0 +1,15 @@
+.inview { opacity:1; }
+header { background-color:#000; }
+header h1 { background:url('../images/logo-vg-ie.png'); }
+#intro { background:url('../images/nature-wallpapers.jpg') no-repeat center; }
+#intro h3 { width:50%; border:3px solid #fefefe; border-left:none; border-right:none; }
+
+.g-logo-container { left:25%; }
+.g-description { background:#000; }
+
+#about .about-box-1 { margin:0 10px; padding:0;}
+#about .about-box-1 h3 { border-bottom: 2px solid #e0e0e0;}
+
+#contact { background:url('../images/office-wallpapers.jpg') no-repeat center bottom; }
+footer { background:#000; }
+footer .tw-share-btn a { background:#1B95E0; color:#fff; padding:2px 5px; }
